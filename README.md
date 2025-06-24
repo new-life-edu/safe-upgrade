@@ -1,3 +1,5 @@
+[![Sponsor](https://img.shields.io/badge/sponsor-%E2%9D%A4-lightgrey?logo=github)](https://github.com/sponsors/YourUsername)
+
 # safe-upgrade
 
 ![Shell Script](https://img.shields.io/badge/script-bash-green.svg)
